@@ -17,7 +17,7 @@ Try it in the browser: http://bcoin.io/browser.html
 ## Install
 
 ```
-$ git clone git://github.com/bcoin-org/lcoin.git
+$ git clone git://github.com/bcoin-org/lcoin.git --branch litecoin
 $ cd lcoin
 $ npm install
 $ ./bin/lcoin
