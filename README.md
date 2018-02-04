@@ -1,6 +1,8 @@
-# Lcoin (Bcoin ported to Litecoin)
+!!! WIP - this code is in the process of being ported.  DO NOT USE !!!
 
-**Lcoin** is an alternative implementation of the litecoin protocol, written in
+# Ncoin (Lcoin ported to NewYorkCoin)
+
+**Ncoin** is an alternative implementation of the newyorkcoin protocol, written in
 node.js.
 
 ## Uses
