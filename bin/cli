@@ -7,7 +7,7 @@ var util = require('../lib/utils/util');
 var co = require('../lib/utils/co');
 var Client = require('../lib/http/client');
 var Wallet = require('../lib/http/wallet');
-var Amount = require('../lib/btc/amount');
+var Amount = require('../lib/ltc/amount');
 var main;
 
 function CLI() {
