@@ -7,7 +7,7 @@ var base58 = require('../lib/utils/base58');
 var encoding = require('../lib/utils/encoding');
 var crypto = require('../lib/crypto/crypto');
 var schnorr = require('../lib/crypto/schnorr');
-var Amount = require('../lib/btc/amount');
+var Amount = require('../lib/ltc/amount');
 var consensus = require('../lib/protocol/consensus');
 var Validator = require('../lib/utils/validator');
 
